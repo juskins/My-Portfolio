@@ -286,8 +286,8 @@ img#rocket {
 /* avatar image */
 .img_avatar {
     margin-top: 10px;
-    height: 80px;
-    width: 80px;
+    height: 180px;
+    width: 180px;
     border-radius: 50%;
 }
 
